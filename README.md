@@ -36,7 +36,7 @@ source app's icon on each clip, and the Liquid Glass look on macOS 26.
 ## Build and run
 
 ```sh
-git clone https://github.com/<you>/pastil.git
+git clone https://github.com/mrsdz/pastil.git
 cd pastil
 bash script/build_and_run.sh
 ```
